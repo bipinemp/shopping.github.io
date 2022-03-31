@@ -1,6 +1,6 @@
 {
-  "homepage": "http://bipinemp.github.io/react-shopping-app",
   "name": "e-commerce",
+  "homepage": "http://bipinemp.github.io/react-shopping-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

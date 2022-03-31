@@ -8,12 +8,10 @@ function Navbar() {
   return (
     <nav>
       <div className="title">
-        <Link to="/">
-          <h1>Shopping</h1>
-        </Link>
+        <h1>Shopping</h1>
       </div>
       <div className="links">
-        <Link to="/">Home</Link>
+        <Link to="/react-shopping-app">Home</Link>
         <Link to="/cart">Cart ({cart.length})</Link>
       </div>
     </nav>

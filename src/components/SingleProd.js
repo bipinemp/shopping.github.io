@@ -36,10 +36,6 @@ const SingleProd = ({ item }) => {
           </button>
         )}
       </div>
-      {/* <div className="inc-dec">
-        <div className="inc">+</div>
-        <div className="inc">-</div>
-      </div> */}
     </div>
   );
 };

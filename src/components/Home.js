@@ -13,7 +13,7 @@ function Home() {
   };
 
   return (
-    <>
+    <div>
       <div className="container-category">
         <button onClick={() => setProduct(list)}>All Product</button>
         <button onClick={() => filterProduct("men")}>Men</button>
@@ -27,7 +27,7 @@ function Home() {
           <SingleProd key={item.id} item={item} />
         ))}
       </div>
-    </>
+    </div>
   );
 }
 
