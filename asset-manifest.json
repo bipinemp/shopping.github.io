@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopping.github.io/static/css/main.4b07dc09.css",
+    "main.js": "/shopping.github.io/static/js/main.9bf69568.js",
+    "index.html": "/shopping.github.io/index.html",
+    "main.4b07dc09.css.map": "/shopping.github.io/static/css/main.4b07dc09.css.map",
+    "main.9bf69568.js.map": "/shopping.github.io/static/js/main.9bf69568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b07dc09.css",
+    "static/js/main.9bf69568.js"
+  ]
+}
